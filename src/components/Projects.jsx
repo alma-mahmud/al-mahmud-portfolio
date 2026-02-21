@@ -24,7 +24,7 @@ const Projects = ({darkMode}) => {
             image: profile5,
             tages: ["React", "Vite", "JavaScript", "Lenis", "Responsive Design"],
             github: 'https://github.com/Mohammad-Nadil/ebt-eduact/',
-            live: 'https://ebt-eduact.vercel.app/course',
+            live: 'https://ebt-eduact.vercel.app/',
         },
         {
             id: 3,
